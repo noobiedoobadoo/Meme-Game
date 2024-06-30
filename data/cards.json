@@ -1,39 +1,39 @@
 
 [
     {
-        "image": "./Meme-Game/assets/1.png",
+        "image": "./assets/1.png",
         "name": "1"
     },
     {
-        "image": "./Meme-Game/assets/2.png",
+        "image": "./assets/2.png",
         "name": "2"
     },
     {
-        "image": "./Meme-Game/assets/3.png",
+        "image": "./assets/3.png",
         "name": "3"
     },
     {
-        "image": "./Meme-Game/assets/4.png",
+        "image": "./assets/4.png",
         "name": "4"
     },
     {
-        "image": "./Meme-Game/assets/5.png",
+        "image": "./assets/5.png",
         "name": "5"
     },
     {
-        "image": "./Meme-Game/assets/6.png",
+        "image": "./assets/6.png",
         "name": "6"
     },
     {
-        "image": "./Meme-Game/assets/7.png",
+        "image": "./assets/7.png",
         "name": "7"
     },
     {
-        "image": "./Meme-Game/assets/8.png",
+        "image": "./assets/8.png",
         "name": "8"
     },
     {
-        "image": "./Meme-Game/assets/9.png",
+        "image": "./assets/9.png",
         "name": "9"
     }
 ]
