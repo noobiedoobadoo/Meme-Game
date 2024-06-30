@@ -1,39 +1,39 @@
 
 [
     {
-        "image": "../assets/LOGOS/1.png",
+        "image": "../assets/1.png",
         "name": "1"
     },
     {
-        "image": "../assets/LOGOS/2.png",
+        "image": "../assets/2.png",
         "name": "2"
     },
     {
-        "image": "../assets/LOGOS/3.png",
+        "image": "../assets/3.png",
         "name": "3"
     },
     {
-        "image": "../assets/LOGOS/4.png",
+        "image": "../assets/4.png",
         "name": "4"
     },
     {
-        "image": "../assets/LOGOS/5.png",
+        "image": "../assets/5.png",
         "name": "5"
     },
     {
-        "image": "../assets/LOGOS/6.png",
+        "image": "../assets/6.png",
         "name": "6"
     },
     {
-        "image": "../assets/LOGOS/7.png",
+        "image": "../assets/7.png",
         "name": "7"
     },
     {
-        "image": "../assets/LOGOS/8.png",
+        "image": "../assets/8.png",
         "name": "8"
     },
     {
-        "image": "../assets/LOGOS/9.png",
+        "image": "../assets/9.png",
         "name": "9"
     }
 ]
