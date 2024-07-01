@@ -103,4 +103,6 @@ p {
 .unselected{
     border: 3px solid #576474;
 }
-
+#linkimg{
+    display: none;
+}
